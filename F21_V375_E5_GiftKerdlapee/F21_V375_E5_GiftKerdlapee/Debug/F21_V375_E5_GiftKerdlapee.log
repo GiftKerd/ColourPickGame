@@ -1,0 +1,14 @@
+﻿  table.cpp
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(53,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(54,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(59,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(60,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(63,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(97,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(117,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(127,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(136,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(136,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\F21_V375_E5_GiftKerdlapee\table.cpp(136,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  F21_V375_E5_GiftKerdlapee.vcxproj -> D:\Classes\VFX375\F21_V375_E5_GiftKerdlapee\Debug\F21_V375_E5_GiftKerdlapee.exe
